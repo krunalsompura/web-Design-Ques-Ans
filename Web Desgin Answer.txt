@@ -1,0 +1,43 @@
+1) The web browser is software that use a for browsing and internet displaying webpage. Web server is provide its user
+with the doucment they request their browser.
+
+2) Domain is the website address on the internet.
+
+3) Web desgin is the creating the website and pages. It should  the main object the method of operation of the bussiness.
+
+4)
+
+5)
+
+6) HTML is not a case senstive.
+
+7)Editors are basically computer programs utilised to edit files on a computer. Types of editor developmental, copy,line,
+fact editing.
+
+8) HTML displays data and describes the structure of a webpage, whereas XML stores and transfers data. 
+
+9) There are 2 version are available in market . HTML4 and HTML5
+
+10) Doctype is a tag is on the first line which is not contained within the <html> tag.
+
+11) <Doctype>
+       <Html>
+       <head> 
+       <title>  My Name is  </title>
+       </head>
+       <body>
+
+          content
+       
+      </body>
+      </html>
+
+12)The HTML <caption> tag define the title of a table .
+
+13) HTML is Hyper Text Markup Language, HTML tags are formed in < >, Html comments <!....>.
+
+14)  The HTML <a> with the href  and creates a hyperlink to web pages, files, email addresses, locations in the same page, 
+or anything else a URL can address. 
+
+15) Images are used to improve the website .
+ 
